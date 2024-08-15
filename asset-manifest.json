@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/previwermarked/static/css/main.6637e2b8.css",
+    "main.js": "/previwermarked/static/js/main.b3bbe134.js",
+    "static/js/453.90db1a72.chunk.js": "/previwermarked/static/js/453.90db1a72.chunk.js",
+    "index.html": "/previwermarked/index.html",
+    "main.6637e2b8.css.map": "/previwermarked/static/css/main.6637e2b8.css.map",
+    "main.b3bbe134.js.map": "/previwermarked/static/js/main.b3bbe134.js.map",
+    "453.90db1a72.chunk.js.map": "/previwermarked/static/js/453.90db1a72.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6637e2b8.css",
+    "static/js/main.b3bbe134.js"
+  ]
+}
